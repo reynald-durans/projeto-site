@@ -9,6 +9,7 @@ body {
 }
 
 main {
+    border-radius: 5px;
     background-color: white;
     width: 500px;
     margin: auto;
@@ -39,4 +40,8 @@ a {
 a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255)
+}
+
+abbr {
+    text-decoration: underline;
 }
